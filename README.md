@@ -1,16 +1,16 @@
 # 🌐 Recipe Page - Frontend Mentor Challenge
 
-🎯 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
+🎯 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 ---
 
 ## 📄 Overview / Visión general
 
 ### 🇬🇧 The Challenge
-The first challenge on Frontend Mentor, where we make a Recipe Page for desktop and mobile
+A Frontend Mentor challenge where we will create a recipe website for mobile and desktop devices.
 
 ### 🇪🇸 El Reto
-El primer reto en Frontend Mentor, donde crearemos una página con una receta para escritorio y moviles
+Un reto de Frontend Mentor donde crearemos una página web de una receta, para dispositivos moviles y escritorio
 
 ---
 
@@ -29,19 +29,11 @@ El primer reto en Frontend Mentor, donde crearemos una página con una receta pa
 
 ---
 
-## 🧠 My Process / Mi Proceso
-
 ### 🛠️ Built With / Tecnologías
 
 - 🧩 HTML semántico
 - 🎨 Tailwind CSS
 - 📱 Mobile-first workflow
-
-### 🔁 Continued Development / Desarrollo futuro
-
-🇬🇧 I want to keep improving my use of utility classes and explore more complex layouts using Tailwind.
-
-🇪🇸 Quiero seguir mejorando mi uso de las clases utilitarias y explorar maquetaciones más complejas con Tailwind.
 
 ### 🔗 Useful Resources / Recursos útiles
 
