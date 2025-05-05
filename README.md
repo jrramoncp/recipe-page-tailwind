@@ -24,8 +24,8 @@ Un reto de Frontend Mentor donde crearemos una página web de una receta, para d
 
 ## 🔗 Links / Enlaces
 
-- 🛠️ **Solution / Solución:** [Add your solution URL](https://www.frontendmentor.io/solutions/blog-card-tailwind-css-I5HHttYLDQ)  
-- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/blog-card-preview/)
+- 🛠️ **Solution / Solución:** [Add your solution URL](https://www.frontendmentor.io/solutions/recipe-page-made-with-tailwind-JBNCrLub3_)  
+- 🌍 **Live site / Sitio en vivo:** [Add your live site URL](https://jrramoncp.github.io/recipe-page-tailwind/)
 
 ---
 
