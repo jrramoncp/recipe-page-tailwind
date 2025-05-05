@@ -1,14 +1,5 @@
 @import "tailwindcss";
 
-
-.text-size-responsive{
-  @apply text-[clamp(0.875rem,3.5vw,1rem)] leading-[150%];
-}
-
-.title-size-responsive{
-  @apply text-[clamp(1.25rem,3.5vw,1.5rem)] leading-[150%];
-}
-
-.card-shadow{
-  box-shadow: 8px 8px 0px 0px #000;
+.font-young-serif{
+  font-family:"Young Serif", serif;
 }
